@@ -2,7 +2,7 @@ import React from 'react'
 
 function he() {
   return (
-    <div>he</div>
+    <div>his happy</div>
   )
 }
 
